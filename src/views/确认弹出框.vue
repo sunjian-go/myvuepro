@@ -9,8 +9,8 @@
   @cancel: 取消按钮的钩子函数
   -->
   <el-popconfirm
-      confirm-button-text="OK"
-      cancel-button-text="No"
+      confirm-button-text="YES"
+      cancel-button-text="NO"
       icon="Delete"
       icon-color="#626AEF"
       title="Are you sure to delete this?"
